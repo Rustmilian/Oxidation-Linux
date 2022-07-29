@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 logo: "assets/images/icon.png"
 title: Oxidation Linux
-masthead_title: "test"
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
  Oxidation Linux is Arch Linux 💖 Rust + UUTILS~GNU Hybrid (Future UUTILS Only)
