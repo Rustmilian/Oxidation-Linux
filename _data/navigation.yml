@@ -1,4 +1,6 @@
 main:
+  - title: "Download"
+    url: https://github.com/Rustmilian/Oxidation-Linux/releases/latest
   - title: "Posts"
     url: /posts/
   - title: "Categories"
