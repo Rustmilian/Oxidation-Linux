@@ -1,11 +1,9 @@
 main:
-  - title: "Download"
-    url: https://github.com/Rustmilian/Oxidation-Linux/releases/latest
+  - title: "Learn More"
+    url: /about/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
