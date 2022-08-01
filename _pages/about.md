@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: "About"
 author_profile: false
+title: "About :"
 ---
+An experimental project with the goal of replacing as much of the system as possible with rust alternitives.
 
-An experimental project with the goal of replacing as much of the system with rust alternitives.
 Desktops to Support :
 - Gnome
 - KDE Plasma
