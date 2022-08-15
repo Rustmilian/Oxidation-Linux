@@ -10,21 +10,25 @@ header:
 excerpt: "Oxidation Linux is Arch Linux 💖 Rust + UUTILS~GNU Hybrid (Future UUTILS Only)"
 
 intro:
+  - excerpt:
 feature_row:
   - image_path: /assets/images/Gnome.png
     url: "#test-link"
     btn_label: "Placeholder"
     btn_class: "btn--primary"
+    excerpt:
     title: "Gnome"
   - image_path: /assets/images/KDE-Plasma.png
     url: "#test-link"
     btn_label: "Placeholder"
     btn_class: "btn--primary"
+    excerpt:
     title: "KDE Plasma"
   - image_path: /assets/images/XFCE.png
     url: "#test-link"
     btn_label: "Placeholder"
     btn_class: "btn--primary"
+    excerpt:
     title: "XFCE"
 ---
 
