@@ -1,11 +1,13 @@
-alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
 b43-fwcutter
+
 ####### BASE #######
+archlinux-keyring
+bash
 bzip2
-coreutils-hybrid ## Uutils (https://github.com/uutils/coreutils) ##
+coreutils-hybrid
 file
 filesystem
 findutils
@@ -22,6 +24,15 @@ pacman
 pciutils
 procps-ng
 psmisc
+####### Pipewire ###
+pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-v4l2
+realtime-privileges
+rtkit
+wireplumber
+####################
 sed
 shadow
 systemd
@@ -30,6 +41,7 @@ tar
 util-linux
 xz
 ####################
+
 bind
 brltty
 broadcom-wl
@@ -109,6 +121,7 @@ openvpn
 partclone
 parted
 partimage
+paru
 pcsclite
 ppp
 pptpclient
@@ -148,4 +161,3 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
-sddm
