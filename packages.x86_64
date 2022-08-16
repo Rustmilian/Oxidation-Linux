@@ -24,15 +24,6 @@ pacman
 pciutils
 procps-ng
 psmisc
-####### Pipewire ###
-pipewire
-pipewire-alsa
-pipewire-pulse
-pipewire-v4l2
-realtime-privileges
-rtkit
-wireplumber
-####################
 sed
 shadow
 systemd
@@ -126,6 +117,15 @@ pcsclite
 ppp
 pptpclient
 pv
+####### Pipewire ###
+pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-v4l2
+realtime-privileges
+rtkit
+wireplumber
+####################
 qemu-guest-agent
 refind
 reflector
