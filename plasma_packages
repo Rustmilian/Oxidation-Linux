@@ -7,5 +7,4 @@ packagekit-qt5
 partitionmanager
 plasma
 sddm-kcm
-systemd-kcm
 qpwgraph
